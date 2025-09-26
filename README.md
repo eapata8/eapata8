@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Esther Apata**
+# 👋 Hi, I’m **Esther**!
 
 🎓 I’m a fourth-year **Computer Engineering student** at the **University of Ottawa**.  
 ⚡ I’m passionate about bridging **hardware ↔ software**: VHDL/FPGA, microcontrollers, embedded systems, machine learning, operating systems, and networks — bringing ideas to life.  
