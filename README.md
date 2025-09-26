@@ -1,21 +1,17 @@
-# 👋 Salut, moi c’est **Esther Apata**
+# 👋 Hi, I’m **Esther Apata**
 
----
-🎓 Étudiante en **4ᵉ année de Génie informatique** à l’Université d’Ottawa.  
-⚡ J’adore le croisement **matériel ↔ logiciel** : VHDL/FPGA, microcontrôleurs, systèmes embarqués, ML, OS, réseaux… pour donner vie à mes idées.  
-🧭 En ce moment : ouverte aux collaborations, projets étudiants et opportunités.
-
-### 🚀 À propos
-- 🔧 **Matériel & embarqué** : VHDL/FPGA, ASM/FSM, STM32, ESP32, RaspberryPi...  
-- 💻 **Logiciel** : Python, C/C++, Java, SQL, Android, HTML/CSS/JavaScript...  
-- 📡 **Réseaux** : TCP/IP, routage, Wireshark...  
+🎓 I’m a fourth-year **Computer Engineering student** at the **University of Ottawa**.  
+⚡ I’m passionate about bridging **hardware ↔ software**: VHDL/FPGA, microcontrollers, embedded systems, machine learning, operating systems, and networks — bringing ideas to life.  
+🧭 I’m currently open to **collaborations, student projects, and new opportunities**.  
 
 
-### 🛠️ Compétences techniques
-```yaml
-Matériel/Embarqué: VHDL, FPGA (DE2), STM32, ESP32, Quartus, ASM/FSM
-Logiciel: Python, C/C++, Java, SQL, MATLAB, Android, HTML/CSS/JavaScript, NodeJS
-Systèmes/Réseaux: Linux, temps réel (bases), TCP/IP, Wireshark
-Outils: Git/GitHub, Docker, Android Studio, Firebase
-Cloud: AWS (CloudFormation, notions; Cert. Cloud Practitioner)
-Langues: Français/Anglais (courant), Espagnol (bases)
+# 🎒 Tech I carry in my backpack
+### (a.k.a. stuff I’ve used before and can pull out if needed)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=eapata8&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
